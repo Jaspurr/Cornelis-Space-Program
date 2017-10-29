@@ -21,7 +21,7 @@ public class Controller : MonoBehaviour {
 	//Transform ship;
 	RaycastHit hit;
 	bool sit;
-	GameObject stoel;
+	GameObject stoel;kg
 	Vector3 oldpos;
 
 	private float yaw = 0.0f;
